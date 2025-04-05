@@ -1,0 +1,19 @@
+{
+  "name": "workshop-js-uspg-2025",
+  "version": "1.0.0",
+  "description": "Repaso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarwinRuiz/workshop-js-uspg-2025.git"
+  },
+  "author": "Darwin Ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarwinRuiz/workshop-js-uspg-2025/issues"
+  },
+  "homepage": "https://github.com/DarwinRuiz/workshop-js-uspg-2025#readme"
+}
