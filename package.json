@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DarwinRuiz/workshop-js-uspg-2025/issues"
   },
-  "homepage": "https://github.com/DarwinRuiz/workshop-js-uspg-2025#readme"
+  "homepage": "https://github.com/DarwinRuiz/workshop-js-uspg-2025#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
